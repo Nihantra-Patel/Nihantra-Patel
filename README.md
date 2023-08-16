@@ -7,3 +7,9 @@ I am honored to be selected as a [nominee for the ERPNext Forum](https://discuss
 With my expertise in ERPNext, I possess a strong track record of enabling organizations to streamline their processes and optimize productivity. I thrive on solving complex problems and collaborating with clients to achieve their goals. If you are seeking a skilled ERPNext Developer committed to delivering excellence, let's connect and explore how I can contribute to your success.
 
 Thank You! :smiley:
+
+<style>
+.d-flex.flex-justify-between {
+  display: none !important;
+}
+</style>
