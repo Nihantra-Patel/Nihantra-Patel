@@ -1,6 +1,6 @@
 👋 Hi, I’m [Nihantra Patel](https://www.linkedin.com/in/nihantra-patel). I'm a Frappe | ERPNext Developer.
 
-With over 3.5 years of hands-on experience in ERPNext development, I specialize in installing and configuring ERPNext using a bench, ensuring seamless implementation and customization. I have successfully served clients from diverse industries including oil, dye, architecture and interior design, pharmaceutical manufacturing, and plastic manufacturing.
+With over 4 years of hands-on experience in ERPNext development, I specialize in implementation and customization. I have successfully served clients from diverse industries including oil, dye, architecture and interior design, pharmaceutical manufacturing, and plastic manufacturing.
 
 I am honored to have been [nominated for and awarded](https://discuss.frappe.io/t/vote-for-your-favourite-contributors-for-the-2023-conference/108675) the ["Best Forum Contributor"](https://discuss.frappe.io/t/vote-for-your-favourite-contributors-for-the-2023-conference/108675#best-forum-contributor-4) recognition in the Frappe ERPNext community for 2023 in [Frappeverse](https://frappeverse.in/awards#:~:text=at%20Frappeverse%202023-,Nihantra%20Patel,-Best%20forum%20contributor).
 
