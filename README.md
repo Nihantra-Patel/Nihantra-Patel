@@ -7,16 +7,6 @@
 </p>
 
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Nihantra-Patel&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true" width="32%" />
-
-  <img src="https://streak-stats.demolab.com/?user=Nihantra-Patel&theme=flag-india&hide_border=false" width="32%" />
-
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nihantra-Patel&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="32%" />
-</p> -->
-
-
-
 👋 Hi, I’m [Nihantra Patel](https://www.linkedin.com/in/nihantra-patel). I'm a Frappe | ERPNext Developer.
 
 With over 4 years of hands-on experience in ERPNext development, I specialize in implementation and customization. I have successfully served clients from diverse industries including oil, dye, architecture and interior design, pharmaceutical manufacturing, and plastic manufacturing.
