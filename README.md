@@ -1,11 +1,10 @@
 <p align="center">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Nihantra-Patel&show_icons=true&theme=flag-india"/>
+  <img height="145em" src="https://github-readme-stats.shion.dev/api?username=Nihantra-Patel&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true"/>
 
-  <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nihantra-Patel&theme=flag-india"/>
+  <img height="145em" src="https://streak-stats.demolab.com/?user=Nihantra-Patel&theme=flag-india&hide_border=false"/>
 
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihantra-Patel&layout=compact&theme=flag-india"/>
+  <img height="145em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nihantra-Patel&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
 </p>
-
 
 👋 Hi, I’m [Nihantra Patel](https://www.linkedin.com/in/nihantra-patel). I'm a Frappe | ERPNext Developer.
 
